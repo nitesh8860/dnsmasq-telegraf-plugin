@@ -71,3 +71,5 @@ You should be able to call this from telegraf now using execd:
 ```
 dnsmasq,host=localhost,server=127.0.0.1:53 insertions=0,evictions=0,misses=0,hits=12,auth=0,queries=0,queries_failed=0,cachesize=150 1598519060000000000
 ```
+
+
